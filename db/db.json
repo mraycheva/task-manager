@@ -1,0 +1,83 @@
+{
+  "users": [
+    {
+      "id": "-gFukwt",
+      "active": true,
+      "admin": true,
+      "picture": "https://picsum.photos/200/300?random=1",
+      "age": "37",
+      "name": "Franz Kafka",
+      "email": "franz@kafka.com",
+      "password": "franz"
+    },
+    {
+      "email": "milena@jesenska.com",
+      "password": "milena",
+      "name": "Milena Jesenska",
+      "age": "24",
+      "active": true,
+      "admin": false,
+      "picture": "https://picsum.photos/200/300?random=2",
+      "id": "_5B-lCh"
+    },
+    {
+      "email": "felice@bauer.com",
+      "password": "felice",
+      "name": "Felice Bauer",
+      "age": "33",
+      "active": true,
+      "admin": false,
+      "picture": "https://picsum.photos/200/300?random=3",
+      "id": "DhptEPp"
+    },
+    {
+      "email": "max@brod.com",
+      "password": "brod",
+      "name": "Max Brod",
+      "age": "36",
+      "active": true,
+      "admin": false,
+      "picture": "https://picsum.photos/200/300?random=4",
+      "id": "F6AVJx-"
+    },
+    {
+      "email": "hermann@kafka.com",
+      "password": "hermann",
+      "name": "Hermann Kafka",
+      "age": "66",
+      "active": false,
+      "admin": false,
+      "picture": "https://picsum.photos/200/300?random=5",
+      "id": "_Fgq0nI"
+    }
+  ],
+  "tasks": [
+    {
+      "title": "Meet with M.",
+      "hoursEstimation": "2",
+      "authorId": "-gFukwt",
+      "authorName": "Franz Kafka",
+      "status": "Pending",
+      "description": "Arrange details",
+      "id": 1
+    },
+    {
+      "title": "Translate",
+      "hoursEstimation": "2",
+      "status": "Active",
+      "authorId": "_5B-lCh",
+      "authorName": "Milena Jesenska",
+      "description": "Finish the short story translation",
+      "id": 2
+    },
+    {
+      "title": "Write",
+      "hoursEstimation": "2",
+      "status": "Done",
+      "authorId": "DhptEPp",
+      "authorName": "Felice Bauer",
+      "description": "Write a letter to X.",
+      "id": 3
+    }
+  ]
+}

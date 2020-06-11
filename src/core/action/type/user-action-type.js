@@ -1,0 +1,9 @@
+export const GET_USERS = 'GET_USERS';
+export const DELETE_USER = 'DELETE_USER';
+export const EDIT_USER = 'EDIT_USER';
+export const GET_USER_BY_ID = 'GET_USER_BY_ID';
+export const SAVE_USER = 'SAVE_USER';
+export const CREATE_USER_ERROR = 'CREATE_USER_ERROR';
+export const DELETE_USER_ERROR = 'DELETE_USER_ERROR';
+export const SET_USER_EDIT_SUCCESSFUL = 'SET_USER_EDIT_SUCCESSFUL';
+export const CLEAR_USER = 'CLEAR_USER';

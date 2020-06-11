@@ -1,0 +1,17 @@
+.edit-wrapper {
+    display: flex;
+    min-height: 100%;
+    justify-content: center;
+    align-items: center;
+    padding: 10vh;
+    vertical-align: middle;
+    height: 100%;
+    width: 100%;
+}
+
+.edit-form {
+    border: 1px solid gray;
+    width: 600px;
+    padding: 20px;
+    background-color: lightgray;
+}
